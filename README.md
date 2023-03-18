@@ -1,4 +1,4 @@
-# lotterySmartContract
+# Lottery Smart Contract
 My First Smart Contract Application, the smart contract is a lottery application where player register by stack 0.1 ether on the smart contract.
 
 This smart contract was built using the Solidity programming language and the Remix development environment. It is designed to run on the Ethereum blockchain and provides a decentralized lottery system.
